@@ -1,0 +1,26 @@
+.body{
+    display: flex;
+    height: 700px;
+    background-color: rgb(26, 26, 56);
+    align-items: center;
+    justify-content: center;
+}
+.Flex-container{
+    display: flex;
+    border-radius: 3%;
+    background-color: antiquewhite;
+    height: 400px;
+    width: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+p{
+    text-align: center;
+}
